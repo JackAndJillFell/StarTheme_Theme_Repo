@@ -1,4 +1,3 @@
-*TO-DO: Add example pictures of uploaded themes.
 Hotdog:
 ![image](https://github.com/JackAndJillFell/StarTheme_Theme_Repo/assets/119034131/4181f510-22bc-4268-9905-347d6e1592bc)
 
