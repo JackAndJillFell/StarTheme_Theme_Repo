@@ -10,6 +10,9 @@ Drake Red:
 9-Tails:
 ![image](https://github.com/JackAndJillFell/StarTheme_Theme_Repo/assets/119034131/c2ebae4f-e997-45b6-a0ea-c32e9a3ffc44)
 
+Anvil:
+![image](https://github.com/user-attachments/assets/39debbfd-d2d7-4b68-b39d-1a73113d884d)
+
 The app:
 ![image](https://github.com/JackAndJillFell/StarTheme_Theme_Repo/assets/119034131/84bd4d62-31ad-41a6-944e-fc17d7380d26)
 
